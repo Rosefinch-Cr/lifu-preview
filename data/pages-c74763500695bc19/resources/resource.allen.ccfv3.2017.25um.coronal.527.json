@@ -1,0 +1,14 @@
+{
+  "id": "slice.allen.ccfv3.2017.25um.coronal.527",
+  "label": "冠状 AP #527 · 距体数据前端 13175 µm",
+  "plane": "coronal",
+  "index": 527,
+  "position_um": 13175.0,
+  "width": 456,
+  "height": 320,
+  "outline_path": null,
+  "regions": [],
+  "region_ids": [],
+  "geometry_resource_id": null,
+  "is_empty": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "slice.allen.ccfv3.2017.25um.coronal.0",
+  "label": "冠状 AP #0 · 距体数据前端 0 µm",
+  "plane": "coronal",
+  "index": 0,
+  "position_um": 0.0,
+  "width": 456,
+  "height": 320,
+  "outline_path": null,
+  "regions": [],
+  "region_ids": [],
+  "geometry_resource_id": null,
+  "is_empty": true
+}
