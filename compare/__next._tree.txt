@@ -4,4 +4,4 @@
 :HL["/lifu-preview/_next/static/chunks/2r_n84zp76wk1.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"compare","h":96,"c":"$Q2"}]]
-0:{"b":"JrxyRfdz8F8eXXtDU9ZWY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"No7n1_Og_6KrhpLK8FR-E","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
